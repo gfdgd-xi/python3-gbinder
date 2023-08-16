@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: gbinder-python
+Version: 1.1.1
+Summary: Cython extension module for C++ gbinder functions
+Home-page: https://github.com/erfanoabdi/gbinder-python
+Author: Erfan Abdi
+Author-email: erfangplus@gmail.com
+License: GPL3
+Description: UNKNOWN
+Platform: UNKNOWN
